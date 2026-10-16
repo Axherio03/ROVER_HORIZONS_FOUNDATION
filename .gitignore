@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+dataset_rover/
+dataset_yolo/
+runs/
+*.jpg
+*.jpeg
+*.png
+# Solo guardar el modelo entrenado y los scripts
